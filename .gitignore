@@ -1,0 +1,7 @@
+.python_packages
+/src/__pycache__
+/test/__pycache__
+/src/orchestrator
+/resources
+pyproject.toml
+LICENSE
